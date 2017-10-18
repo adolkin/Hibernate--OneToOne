@@ -51,6 +51,7 @@ public class ReadStudentDemo {
 			
 			// commit the transaction
 			session.getTransaction().commit();
+			
 			System.out.println("Done!");
 		}
 		finally {
