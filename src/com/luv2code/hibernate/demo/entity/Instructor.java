@@ -1,6 +1,5 @@
 package com.luv2code.hibernate.demo.entity;
 
-<<<<<<< HEAD
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -102,10 +101,4 @@ public class Instructor {
 		return "Instructor [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", email=" + email
 				+ ", instructorDetail=" + instructorDetail + "]";
 	}
-	
-	
-=======
-public class Instructor {
-
->>>>>>> 20ecfb026cf81a548af308d599ab678275eb381e
 }
